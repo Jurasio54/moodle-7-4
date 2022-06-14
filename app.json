@@ -1,0 +1,14 @@
+﻿{
+  "name": "Moodle7-4",
+  "description": "DM Uploader es un bot para subir a las nubes y descargar totalmente gratis",
+  "env": {
+    "tl_admin_user": {
+      "description": "El dueño del bot(no poner @)",
+      "value": ""
+    },
+    "bot_token": {
+      "description": "El token del bot",
+      "value": ""
+    }
+  }
+}

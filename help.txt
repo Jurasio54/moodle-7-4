@@ -1,0 +1,17 @@
+👩‍💻Comandos disponibles:
+/adduser usuario - 👥Agrega un usuario
+/banuser usuario - ❌Expulsa un usuario del bot
+/myuser - ⚙️Mira la configuración de tu bot
+/off_proxy - (🔴   )Apaga el proxy que tienes configurado
+/proxy proxy - (   🟢)Pone proxy a tu bot
+/decrypt proxy - 🔓Desencrypta un proxy
+/crypt proxy - 🔒Encrypta un proxy
+/account usuario,contraseña - 🔑Configura las credenciales de la nube
+/host link - 🌍Configura el link de la nube
+/history_changes - Muestra el historial de cambios
+/view_proxy - 👀Mira tu proxy configurado
+/files - 📄Obtiene la lista de archivos en la nube
+/del_# - 🗑️Elimina un archivo de la nube 🗑️
+/txt_# - 📨Manda el txt del archivo solicitado
+🔗Manda un Link directo para comenzar a subir 
+💢Moodle7-4💢
