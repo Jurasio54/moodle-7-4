@@ -242,7 +242,7 @@ def onmessage(update,bot:ObigramClient):
         
 
         #Descomentar debajo solo si se ba a poner el usuario admin de telegram manual
-        #tl_admin_user = '*'
+        tl_admin_user = 'demian2008'
         #Poner de admin del grupo al bot
 
         jdb = JsonDatabase('database')
